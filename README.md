@@ -5,6 +5,8 @@ The Peak: Users are most active on Tuesdays (**9,492 steps avg**).
 The Slump: Activity drops by **14%** on Wednesdays ("The Wednesday Wall")
 The Gap: Users spend 11+ hours sedentary, even on active days, and some struggle with sleep latency (time spent awake in bed).
 ##The Solution: Focus on automated tracking (manual logging is 90% null) and mid-week recovery features.
+![Bellabeat Activity Trends]
+(Screenshot 2026-03-11 123027.png)
 
 # The Process
 Data Source: Fitbit Fitness Tracker Data (33 Users).
